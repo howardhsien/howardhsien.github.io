@@ -1,0 +1,12 @@
+---
+layout: post
+title: Vim Tips
+---
+
+**Ctrl-I** 
+
+to jump back to the previous location.
+
+**Ctrl-O**
+
+to jump forward to the next location.
