@@ -8,18 +8,18 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Howard Hsien
+  tagline: Embedded Software Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
+  email: howard_hsien@hotmail.com
+  phone: 0987260166
+  timezone: Taiwan/Taipei # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Taipei
+  website: https://howardhsien.github.io/ # Include the full website URL, including "http://" or "https://".
+  linkedin: howardhsien
+  line: howardhsien
   github: jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -36,14 +36,16 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Chinese
       level: Native
+      
+    - idiom: English
+      level: Communicational
+      certificate: GEPT high-intermediate
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: Japanese
+      level: Communicational
+      certificate: JLPT N2
 
   interests:
     title: Interests
@@ -63,18 +65,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    •	Embedded firmware engineering
+      -	8+ years of experience in Linux SOC, ARM MCU firmware developing.
+      -	Proficient in Linux development flows. 
+      -	Experienced in RS232/USBHID/USBCDC/BT/I2C/UART development.
+      -	Experienced in camera driver/ MCU control.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BS in Material Science & Engineering
+    university: National Taiwan University
+    time: 2010 - 2015
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -263,23 +265,21 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: C & C++
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: Javascript & HTML
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: JAVA
+    level: 90%
+
+  - name: PYTHON
+    level: 85%
+
+  - name: GIT
+    level: 92%
+
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
